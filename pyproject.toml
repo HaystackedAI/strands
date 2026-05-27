@@ -1,0 +1,11 @@
+[project]
+name = "strands"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.27.1",
+    "strands-agents>=1.41.0",
+    "strands-agents-tools>=0.6.0",
+]
