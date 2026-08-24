@@ -1,3 +1,5 @@
+https://builder.aws.com/content/3EBMvaPgvySi8YqeAVEg5rNJYXw/building-ai-agents-from-zero-to-hero
+
 # 🚀 Building AI Agents from Zero to Hero
 
 **AWSUG MDU — April Skill Sprint 2026**
